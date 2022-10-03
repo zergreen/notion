@@ -1,4 +1,6 @@
 # Notion
+![note](https://media.giphy.com/media/dQpUkK59l5Imxsh8jN/giphy.gif)
+
 Store Notion web
 
 # AI
